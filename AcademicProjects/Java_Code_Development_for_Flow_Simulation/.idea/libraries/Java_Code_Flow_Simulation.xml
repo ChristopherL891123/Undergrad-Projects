@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Java_Code_Flow_Simulation">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/research/Java_Code_Flow_Simulation.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
