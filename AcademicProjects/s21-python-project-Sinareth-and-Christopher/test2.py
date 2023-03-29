@@ -13,7 +13,7 @@ import pprint
 print('***************************************************')
 print('build dictionaries')
 print('***************************************************')
-print("*(&^%%EYJHBK" , stats.word_size_doc(par.corpus_data, "movie_0001", 3))
+
 #
 # Team member B should use this script for testing each function #### Christopher is using this script.
 # you are implementing, once completed move the invocation to main.py
