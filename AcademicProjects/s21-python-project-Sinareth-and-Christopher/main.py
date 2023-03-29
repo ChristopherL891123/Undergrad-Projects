@@ -26,7 +26,7 @@ def main() :
 
     # populates several containers by invoking functions defined in module parser
     # prints the contents of each one of them
-    print("*&^%$*&()@)OFIJH$GYI@(I)OKMNJBHIC$@Y*U)IJK")
+    
     # par.doc_word_index = bld.build_doc_word_index(par.corpus_data)
     # pprint.pprint(par.doc_word_index)
 
